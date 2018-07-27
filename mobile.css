@@ -1,7 +1,9 @@
-@media (max-width: 320px) {
+@media (max-width: 520px) {
 
     li.row {
     width: 100% !important;
 }
-  
+  img#rendertopic {
+    margin-top: 6em;
+}
 }
