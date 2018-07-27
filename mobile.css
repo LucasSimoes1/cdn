@@ -5,8 +5,4 @@
     li.row {
     width: 100% !important;
 }
-li.row div img#rendertopic {
-    width: 60% !important;
-    top: -7em !Important;
-}
 }
