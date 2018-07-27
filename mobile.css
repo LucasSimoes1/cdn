@@ -1,5 +1,4 @@
-@media (max-width: 480px) {
-
+@media only screen and (max-device-width: 480px) {
     li.row {
     width: 100% !important;
 }
