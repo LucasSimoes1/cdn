@@ -1,9 +1,9 @@
 @media (max-width: 480px) {
   body {
-    font-size: 12px;
+    font-size: 14px;
   }
     li.row {
-    width: 200% !important;
+    width: 100% !important;
 }
 li.row div img#rendertopic {
     width: 60% !important;
