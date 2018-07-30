@@ -1,4 +1,38 @@
 @media only screen and (max-device-width: 480px) {
+    .nav_tabs ul li {
+    width: 54px;
+    word-break:  normal;
+}
+
+label.tab_label {
+    font-size:  10px !important;
+}
+
+ul.navbar.navlinks {
+    height: 101px;
+}
+
+.forabg li.header dl.icon {
+    display: none;
+}
+
+.cdzrpg {
+    left: 0;
+    margin-left: -3em;
+}
+
+.module {
+}
+
+div#posters1 {
+    left: 10px;
+}
+
+.mod-top-row {}
+
+.mod-top {
+    width: 100%;
+}
     li.row {
     width: 100% !important;
 }
