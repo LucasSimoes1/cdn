@@ -3,11 +3,49 @@
     width: 54px;
     word-break:  normal;
 }
+.postprofile {
+    display:  none;
+}
+div#log {
+    position: relative;
+    top: -8em;
+    left: -6em;
+}
 
+.wrap {
+    position:  absolute;
+    bottom:  0;
+}
+
+div#regs {
+    position:  relative;
+    z-index:  999999;
+    top: 9em;
+}
+.postbody {
+    margin:  0px !important;
+}
+
+div#ultimosas {
+    display:  block;
+}
+
+a.mod-recent-title {
+    width: 100%;
+}
+.postbody div {
+    width:  100% !important;
+    overflow: auto;
+}
 label.tab_label {
     font-size:  10px !important;
 }
-
+nav.nav_tabs {
+    height:  2950px;
+}
+    .smartbanner.smartbanner-android {
+    display: none;
+}
 ul.navbar.navlinks {
     height: 101px;
 }
