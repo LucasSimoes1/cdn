@@ -3,6 +3,11 @@
     width: 54px;
     word-break:  normal;
 }
+
+
+li#Personagem {
+    width: 100% !important;
+}
 .postprofile {
     display:  none;
 }
@@ -77,4 +82,36 @@ div#posters1 {
   img#rendertopic {
     margin-top: 6em;
 }
+
+li#Loja, li#Armaduras, li#Técnicas, li#Evolução, li#Energia {
+    width: 100% !important;
+    background-size: 200% !Important;
+    background-position: center;
+}
+
+li#batalha, li#diálogo {
+    width: 100% !important;
+}
+
+
+
+#page-footer .wrap {
+    /* display: none; */
+}
+
+ul.footerbar-system {position: fixed;left: 0;bottom: 0;padding: 1em;background: black;font-size: 10px;text-align: center;}
+
+.statistics {
+    display: none;
+}
+
+.copyright-body {
+    display: none;
+    bottom: 0;
+    left: 0;
+}
+
+ul.navbar.navlinks {
+    overflow: hidden;
+    }
 }
